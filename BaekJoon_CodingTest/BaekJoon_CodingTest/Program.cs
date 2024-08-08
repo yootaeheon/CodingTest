@@ -1,8 +1,8 @@
 ﻿using System;
 /// <summary>
-/// 날짜 : 2024.08.06 
-/// 문제 : 나머지
-/// URL : https://www.acmicpc.net/problem/10430
+/// 날짜 : 2024.08. 
+/// 문제 : 
+/// URL : 
 /// </summary>
 internal class Program
 {
